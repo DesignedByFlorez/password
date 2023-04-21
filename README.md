@@ -41,4 +41,5 @@ SO THAT I can create a strong password that provides greater security
 Some additional notes on the written code:
 
 1. describe methods used
+    -In summary, I created arrays for each Character set, asked to confirm if wanting to use one, then pushed to open array. from there I returned a random order.
 
